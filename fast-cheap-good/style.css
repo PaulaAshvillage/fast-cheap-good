@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 400px;
+}
+div {
+  margin: 30px;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+}
+
+input {
+  width: 50px;
+  height: 40px;
+  margin-right: 20px;
+}
